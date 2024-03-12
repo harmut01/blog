@@ -1,0 +1,22 @@
+baseURL = 'https://mutai.xyz/'
+languageCode = 'en-us'
+title = 'Harrison Mutai'
+theme = 'hugo-theme-stack'
+
+
+tags = ["blog", "responsive", "clean", "light", "dark", "personal"]
+
+features = [
+    "disqus",
+    "photoswipe",
+    "opengraph",
+    "widgets",
+    "darkmode",
+    "table of contents",
+    "search",
+]
+
+
+[author]
+name = "Harrison Mutai"
+homepage = "https://mutai.xyz"
