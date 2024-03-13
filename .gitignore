@@ -1,0 +1,36 @@
+# Ignore Hugo generated files
+/public/
+/resources/
+/themes/*/exampleSite/public/
+/themes/*/resources/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore the Hugo config file
+config.toml
+
+# Ignore the compiled Go binary (if you're using Go modules)
+/go.sum
+/go.mod
+
+# Ignore the Hugo cache directory
+/resources/_gen/
+
+# Ignore the Hugo server public directory
+/resources/_gen/assets/
+
+# Ignore the Netlify configuration file if using Netlify
+/netlify.toml
+
+# Ignore the generated documentation if using Docsy theme
+/content/docs/
+
+# Ignore environment-specific files
+.env
+
+# Ignore temporary files and directories
+*.bak
+*.swp
+*~
+
