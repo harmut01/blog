@@ -1,6 +1,6 @@
 baseURL = 'https://mutai.xyz/'
-languageCode = 'en-us'
-title = 'Harrison Mutai'
+languageCode = 'en-gb'
+title = 'mutai.xyz'
 theme = 'hugo-theme-stack'
 
 
